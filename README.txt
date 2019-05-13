@@ -6,7 +6,7 @@ Description - This module makes nomenclature (products, categories, manufacturer
 
 3) Go to Shopify shop, go to Apps on the left.
 1. Next, "Manage private apps." At the top right is "Create a new private app".
-2. Select the "Products, variants and collections" and "Products, variants and collections" permissions - Read and Write.
+2. Select the "Products, variants and collections", "Product information", "Discounts", "Inventory" permissions - Read and Write.
 3. "Webhook API Version" - 2019-04 (Latest)
 4. "Allow this app to access your storefront data using the Storefront API" - tick, and everything below.
 5. Copy the "Admin API → Password".
@@ -37,7 +37,7 @@ __UA__
 
 3) Зайдіть в магазин Shopify, зліва перейдіть в Apps.
 1. Далі «Manage private apps.». Справа вгорі «Create a new private app».
-2. Оберіть права доступу «Products, variants and collections» і «Products, variants and collections» - Read and Write.
+2. Оберіть права доступу "Products, variants and collections", "Product information", "Discounts", "Inventory" - Read and Write.
 3. «Webhook API version» - 2019-04 (Latest)
 4. «Allow this app to access your storefront data using the Storefront API» - поставте галочку, і все що нижче.
 5. скопіюйте «Admin API → Password».
@@ -69,7 +69,7 @@ __RU__
 
 3)Зайдите в магазин Shopify, слева перейдите в Apps. 
 1. Далее «Manage private apps.». Справа вверху «Create a new private app». 
-2. Выбирите права доступа «Products, variants and collections» и «Products, variants and collections» - Read and Write. 
+2. Выбирите права доступа "Products, variants and collections", "Product information", "Discounts", "Inventory" - Read and Write. 
 3. «Webhook API version» - 2019-04 (Latest)
 4. «Allow this app to access your storefront data using the Storefront API» - поставте галочку, и все что ниже. 
 5. Скопирейте «Admin API → Password».
